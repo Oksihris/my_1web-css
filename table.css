@@ -1,0 +1,33 @@
+table,th,td{
+border:2px solid transparent;
+border-collapse:collapse;
+text-align:center;
+}
+
+th,td{
+padding:10px;
+
+}
+.table2 {
+
+text-align: center;
+font-size: 30px;
+}
+
+.table2 tr:nth-child(odd) 
+{ 	
+    background: #1C0F39;
+    color:  #8A91BD;
+} 
+
+.table2 tr:nth-child(even) 
+{
+    background: #0A3925;
+    color:  #8A91BD;
+} 
+
+.table3 {
+
+    color: #007AA5;
+    font-size: 20px;
+}

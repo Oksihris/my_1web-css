@@ -1,0 +1,34 @@
+body{
+background: #060531;
+background: linear-gradient(90deg, #060531 0%, #082F20 100%);
+background-attachment: fixed;
+font-family: Arial;
+}
+hr{
+	color:#442CCD;
+
+}
+@page
+{
+	size: auto;
+}
+@media print
+{
+	*
+	{
+		color: Black;
+		background-color: White;
+	}
+}
+.ref{
+	text-decoration:none;
+	color: #1D4EFF;
+	
+
+}
+hr {
+    border: none;
+    color: #8CC9FE; 
+    background-color: #8CC9FE; 
+    height: 2px; 
+   }

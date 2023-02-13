@@ -1,0 +1,68 @@
+.container
+{
+	background: #060531;
+background: linear-gradient(90deg, #060531 0%, #082F20 100%);
+background-attachment: fixed;
+font:400 20px/1.25 Arial,Tahoma,Verdana,sans-serif;
+position: relative;
+	display: inline-block;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
+.navigation{
+	background: #060531;
+background: linear-gradient(90deg, #060531 0%, #082F20 100%);
+background-attachment: fixed;
+font:400 20px/1.25 Arial,Tahoma,Verdana,sans-serif;
+	position: relative;
+	display: inline-block;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	
+}
+.navigation a{
+	cursor:pointer;
+	display:block;
+	padding:8px 15px;
+
+	color:#007AA5;
+}
+.menuIt
+{
+	position: relative;
+	display: inline-block;
+	width: 2%;
+	margin: auto;
+	text-align: center;
+}
+.navigation a:hover
+{
+	color: #4E499E;
+} 
+
+.menu_3
+{
+	margin: auto;
+	text-align: center;
+}
+.menuIt3
+{
+position: relative;
+display: inline-block;
+background: #060531;
+background: linear-gradient(90deg, #060531 0%, #082F20 100%);
+background-attachment: fixed;
+font:400 20px/1.25 Arial,Tahoma,Verdana,sans-serif;
+width: 45%;
+
+margin: auto;
+text-align: center;}
+
+
+
+.navigation tr{
+
+	text-align:center;
+}
